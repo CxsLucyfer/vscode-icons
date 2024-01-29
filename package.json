@@ -116,7 +116,7 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "inversify": "^5.0.1",
+    "inversify": "^5.1.1",
     "lodash": "^4.17.21",
     "nsri": "^6.0.0",
     "open": "^7.2.1",
