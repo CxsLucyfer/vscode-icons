@@ -120,7 +120,7 @@
     "lodash": "^4.17.21",
     "nsri": "^6.0.0",
     "open": "^7.2.1",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.1",
     "semver": "^7.3.2"
   },
   "preview": false,
